@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireBaseDemo</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet?Sign Up!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_registered_sign_in">Already Registered?Sign In!</string>
+    <string name="sign_up">sign Up</string>
+</resources>
